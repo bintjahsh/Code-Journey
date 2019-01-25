@@ -1,0 +1,82 @@
+/*Sample.css*/
+body {
+ background-color:rgb(221, 225, 237);
+ font-family: inherit;
+ font-size: 14px;
+ margin: 0px;
+}
+#header {
+ background-color: rgb(61, 90, 153);
+ margin: 0px;
+ height: 55px;
+ padding: 15px;
+}
+h {
+ font-family: inherit;
+ font-size: 270%;
+ font-weight: 500;
+ color: rgb(223, 217, 217);
+ padding-left:80px;
+ padding-top: 20px;
+ margin-top: 8px;
+}
+.inline {
+    color: rgb(223, 217, 217);
+    font-style: helvetica;
+    font-size: 90%;
+    float: right;
+    padding-right:5px;
+    margin-top: 5px;
+}
+#login {
+    color: rgb(223, 217, 217);
+    background-color:  rgb(61, 90, 153);
+    font-style: helvetica;
+    height: 20px;
+    width: 60px;
+    border-radius: 0px;  
+}
+h4  {
+ font-style: helvetica;
+ font-size: 150%;
+ color: rgb(14, 56, 95);
+ border-color: rgb(61, 90, 153);
+ padding: 0px;
+}
+#signup {
+ font-style: helvetica;
+ float: right;
+ 
+}
+button .signup {
+    background-color: rgb(99, 165, 81);
+    color:  rgb(223, 217, 217);
+    font-style: helvetica;
+    font-size: 200%;
+    font-weight: bold;
+    float: right;
+    height: 40px;
+    width: 200px;
+    border-radius: 8px; 
+    border-color: none;
+}
+button .login{
+    background-color: rgb(14, 56, 95);
+    color: whitesmoke; 
+}
+h1 {
+ font-style: helvetica;
+ font-size: 200%;    
+ color: black;
+}
+p {
+    float: right;
+    word-wrap: inherit;
+}
+p .tnc{
+    text-align: justify;
+}
+footer {
+  background-color: white;
+  text-align: justify;
+}
